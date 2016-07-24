@@ -31,6 +31,9 @@
         "cordova-plugin-dialogs": {
             "PACKAGE_NAME": "com.logicielconsultoria.clima"
         },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "com.logicielconsultoria.clima"
+        },
         "cordova-plugin-file-transfer": {
             "PACKAGE_NAME": "com.logicielconsultoria.clima"
         },
@@ -65,12 +68,5 @@
             "PACKAGE_NAME": "com.logicielconsultoria.clima"
         }
     },
-    "dependent_plugins": {
-        "cordova-plugin-compat": {
-            "PACKAGE_NAME": "com.logicielconsultoria.clima"
-        },
-        "cordova-plugin-file": {
-            "PACKAGE_NAME": "com.logicielconsultoria.clima"
-        }
-    }
+    "dependent_plugins": {}
 }

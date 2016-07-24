@@ -63,13 +63,13 @@
         },
         "cordova-plugin-whitelist": {
             "PACKAGE_NAME": "climaApp"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "climaApp"
         }
     },
     "dependent_plugins": {
         "cordova-plugin-compat": {
-            "PACKAGE_NAME": "climaApp"
-        },
-        "cordova-plugin-file": {
             "PACKAGE_NAME": "climaApp"
         }
     }
