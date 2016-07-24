@@ -1,0 +1,76 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "climaApp"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "climaApp"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "climaApp"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "climaApp"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "climaApp"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "climaApp"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "climaApp"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "climaApp"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "climaApp"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "climaApp"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "climaApp"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "climaApp"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "climaApp"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "climaApp"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "climaApp"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "climaApp"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "climaApp"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "climaApp"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "climaApp"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "climaApp"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "climaApp"
+        }
+    }
+}
